@@ -10,7 +10,7 @@ This monorepo includes:
 - `packages/api`: A [tRPC](https://trpc.io/) API for type-safe client-server communication.
 - `packages/db`: Database schemas, migrations, and query utilities using [Kysely](https://kysely.dev/).
 - `packages/utils`: Shared utilities used across the monorepo.
-- **Authentication**: Example implementation using [better-auth](https://github.com/BetterAuth/better-auth) with GitHub as an OAuth provider.
+- **Authentication**: Example implementation using [better-auth](https://github.com/better-auth/better-auth) with GitHub as an OAuth provider.
 - **UI**: Basic UI setup with [Tailwind CSS](https://tailwindcss.com/) and [shadcn/ui](https://ui.shadcn.com/).
 - **Tooling**:
   - [Turborepo](https://turbo.build/repo) for high-performance builds.
